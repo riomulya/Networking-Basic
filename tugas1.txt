@@ -1,0 +1,9 @@
+### Tugas 1
+
+### Silahkan jawab pertanyaan-pertanyaan berikut :
+
+1.  OSI memiliki kepanjangan dari ?
+2.  Bilangan 11011001 merupakan contoh bentuk dari bilangan ?
+3.  Bentuk desimal dari 11011001 adalah ?
+4.  Menjelaskan spesifikasi mekanis, kabel dan fungsional guna menangani data jaringan merupakan proses pada layer ?
+5.  Bilangan 3f dan 8a merupakan contoh bentuk dari bilangan ?
