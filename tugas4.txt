@@ -1,0 +1,16 @@
+### Tugas 4
+
+
+Silahkan lakukan monitoring trafik jaringan anda, dan silahkan disesuaikan apabila menggunakan koneksi Wi-Fi atau Ethernet, dan lakukan beberapa langkah berikut :
+
+
+1. Buka setidaknya > 2 website saat monitoring trafik menggunakan wireshark dilakukan.
+2. Amati pada bagian IP Source ke IP Destination dan Protokol apa yang digunakan.
+3. Silahkan kirim ke tim pengajar file hasil monitoring trafik wireshark anda.
+
+### Jawab :
+
+<br>
+<img src="img/1wireshark.png"/>
+<br>
+<img src="img/2wireshark.png"/>
