@@ -10,7 +10,7 @@ Silahkan jawab pertanyaan-pertanyaan berikut :
  4.   DNS (Domain Name Server) adalah ?
  5.   Gambar berikut merupakan contoh dari penggunaan protokol ? : <br>
 
- <img src=""img/tcp.jpeg>
+<img src="img/tcp.jpeg">
 
  ### Jawab :
 
