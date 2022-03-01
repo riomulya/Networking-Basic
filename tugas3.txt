@@ -1,0 +1,23 @@
+### Tugas 3
+
+### Silahkan jawab pertanyaan-pertanyaan berikut :
+
+
+1. Unicast adalah ?
+2. Multicast adalah ?
+3. White-orange, Orange, White-green, Blue, White-blue, Green, White-brown, Brown merupakan tipe penyusunan pin kabel RJ-45 berjenis ?
+4. Nama/jenis kabel berikut adalah :
+<img src="img/kabel-rj-11.png"/>
+
+5. Nama/jenis kabel berikut adalah :
+<img src="img/kabel-rp-tnc.png"/>
+
+### Jawab :
+
+1. Unicast adalah metode pengiriman dari 1 jaringan ke satu jaringan 
+atau di sebut dengan (one to one)
+2. Multicast adalah metode pengiriman dari 1 atau banyak ke banyak jaringan
+atau (one to many) dan bisa juga (many to many)
+3. Berjenis T-568B
+4. Itu adalah kabel RJ 11 atau kabel buat telepon
+5. Kabel RP-TNC
