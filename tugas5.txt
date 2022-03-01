@@ -1,0 +1,22 @@
+<hr>
+### Tugas 5
+
+Silahkan jawab pertanyaan-pertanyaan berikut :
+
+
+ 1.   Video dan Audio Streaming merupakan penggunaan protokol ?
+ 2.   Benar atau salah bahwa protokol UDP memiliki kecepatan lebih rendah daripada protokol TCP ?
+ 3.   Benar atau salah bahwa DHCP memiliki fungsi untuk merubah IP Address kedalam bentuk Domain (cth: google.com) ?
+ 4.   DNS (Domain Name Server) adalah ?
+ 5.   Gambar berikut merupakan contoh dari penggunaan protokol ? : <br>
+
+ <img src=""img/tcp.jpeg>
+
+ ### Jawab :
+
+ 1. Video dan Audio Streaming menggunakan protocol UDP agar cepat saat Streaming
+ 2. iya benar karena UDP tidak perlu adanya balasan dari server dan sangat cepat
+ 3. Salah karena fungsi DHCP hanya untuk memberi dekstop sebuah ip address,
+ yang merubah ip address menjadi domain adalah fungsi dari DNS
+ 4.  sebuah protocol yang dimana dapat merubah url menjadi ip address
+ 5. gambar tersebut merupakan protocol UTP karena mendapat balasan dari server setelah sampai.
