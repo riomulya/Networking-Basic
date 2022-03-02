@@ -1,0 +1,15 @@
+### Tugas 6
+<br>
+<img src="img/cthtgs6"><br>
+a. Silahkah konfigurasikan ke VLAN dan sesuaikan jaringan yang anda buat seperti topologi diatas, dengan ketentuan :
+b. Network yang digunakan : 192.168.50.xx /24
+c. Warna orange merupakan jaringan VLAN : Gedung-A
+d. Warna kuning merupakan jaringan VLAN : Gedung-B
+e. Warna biru merupakan jaringan VLAN : Gedung-C
+f. Warna hijau merupakan jaringan VLAN : Gedung-D
+g. Masing-masing komputer hanya bisa melakukan koneksi di dalam gedung masing-masing
+
+### Jawab :
+
+<img src="img/tugas6-cisco">
+<hr>
