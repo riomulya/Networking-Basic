@@ -1,0 +1,19 @@
+### Tugas 10
+
+
+### Silahkan jawab pertanyaan-pertanyaan berikut :
+
+
+1. Salah satu fungsi mengapa menggunakan VPN adalah karena adanya Confidentially, merupakan penjelasan dari ?
+2. Benar atau salah bahwa HTTPS dan SFTP merupakan contoh protokol yang mengirimkan data secara clear text ?
+3. Benar atau salah bahwa Symetric Algorithm menggunakan kunci yang sama untuk enkripsi dan dekripsi ?
+
+### Jawab :
+
+1. Kerahasisaan Data (Confidentiality)
+Penggunaan VPN dapat menjaga kerahasiaan data dan informasi milik pengguna agar tidak digunakan orang lain 
+sembarangan. Saat ini menggunakan jaringan yang bersifat publik bisa dibilang cukup berbahaya, apalagi untuk 
+bisnis-bisnis besar misalnya pada perusahaan jasa konsultan atau asuransi yang rentan dengan informasi-informasi 
+penting. Sehingga dengan menggunakan VPN maka bisa mengamankan keluar masuknya data melalui metode enkripsi.
+2. Salah
+3. Iya Benar
