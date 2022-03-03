@@ -1,0 +1,20 @@
+### Tugas 9
+
+### Silahkan jawab pertanyaan-pertanyaan berikut :
+
+1. Cara untuk membagi bandwith kepada user-user tertentu dengan cara memperioritaskan koneksi 
+daripada user lain adalah dengan cara metode ?
+2. Jitter adalah ?
+3. Pada QOS, suatu parameter yang menggambarkan suatu kondisi hilangnya paket pada saat sampai tujuan adalah pengertian dari ?
+4. Ipv6 dengan alamat 0000:0000:0000:0000:0000:0000:0000:0001 apabila dipendekkan akan menjadi ?
+5. Benar atau salah bahwa ipv6 memiliki panjang sebesar 126-bit ?
+
+### Jawab :
+
+1. Cara Membagi bandwith dengan metode : Priority
+2. jitter adalah variasi jaringan yang sampai, atau Jitter adalah ukuran variabilitas dalam ping seiring waktu
+3. Pengertian dari Packet loss
+4. Menjadi -> ::1
+5. salah yang benar adalah berukuran 128-bit
+
+<hr>
