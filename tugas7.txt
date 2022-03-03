@@ -1,0 +1,12 @@
+### Tugas 7
+
+<img src="img/tugas7contoh">
+1. Silahkah konfigurasikan ketiga kota tersebut kedalam Dinamic Routing dengan mendownload file ini, dengan ketentuan :
+Network KOTA - A menggunakan : 192.168.20.xx /24<br>
+Network KOTA - B menggunakan : 192.168.40.xx /24<br>
+Network KOTA - C menggunakan : 192.168.60.xx /24<br>
+
+### Jawab :
+
+1. <img src="img/tugas7-dynamicRouting"> 
+<p><a href="file/tugas7.pkt">Ini Hasilnya</a></p>
